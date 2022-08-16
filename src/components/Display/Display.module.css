@@ -1,0 +1,8 @@
+.display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 2;
+    border-radius: 20px;
+    background: dodgerblue;
+}
